@@ -143,3 +143,6 @@ console.log(aleatorio);
 // Arredonda um número para baixo.
 const numero = 4.7; 
 console.log(Math.floor(numero));
+
+// Gustavo Medeiros Barros dos Santos
+// 3956A
